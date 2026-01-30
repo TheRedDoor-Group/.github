@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/E63946/FFFFFF?text=RedDoor" alt="RedDoor Logo" width="120" height="120">
+  <img src="https://media.discordapp.net/attachments/1395729426901237904/1466893878237069519/logo.png?ex=697e66e2&is=697d1562&hm=4474251a0651c71b47ca9d0efe60f76e4ce68295b0261d84fc19f8232cdf7c93&=&format=webp&quality=lossless&width=601&height=601" alt="RedDoor Logo" width="200" height="200">
 
   <h1>RedDoor Development</h1>
   
